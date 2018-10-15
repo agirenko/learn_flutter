@@ -3,8 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/UdemyFlutterAdvancedCourse_Bryan_Cairns/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/UdemyFlutterAdvancedCourse_Bryan_Cairns/build" />
       <excludeFolder url="file://$MODULE_DIR$/UdemyFlutterIntermediateCourse_Bryan_Cairns/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/UdemyFlutterIntermediateCourse_Bryan_Cairns/build" />
+      <excludeFolder url="file://$MODULE_DIR$/UdemyPaoloDIchonePart2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/UdemyPaoloDIchonePart2/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
