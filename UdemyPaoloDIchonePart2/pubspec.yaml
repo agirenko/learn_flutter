@@ -1,0 +1,39 @@
+name: udemy_dichone_part_2
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.15.7
+  path_provider: ^0.4.1
+  shared_preferences: ^0.4.3
+  cupertino_icons: ^0.1.2
+  sqflite: ^0.12.1
+  firebase_database: ^1.0.4
+  url_launcher: ^4.0.1
+  meta: ^1.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/light_rain.png
+    - images/umbrella.png
+    - images/white_snow.png
+    - assets/android_bootcamp.png
+    - assets/android_portfolio.png
+    - assets/bawp_creator.png
+    - assets/java9_course.png
+    - assets/java_design-pats.png
+    - assets/kotlin.png
+    - assets/logo.png
+
